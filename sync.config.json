@@ -1,0 +1,20 @@
+{
+  "dirs": {
+    "tdComponents": {
+      "src": "./test1",
+      "dest": [
+        "./foo",
+        "./bar"
+      ]
+    },
+    "tdTests": {
+      "src": "./test2",
+      "dest": [
+        "./duper/foo",
+        "./duper/baz"
+      ]
+    }
+  },
+  "watch": true,
+  "log": true
+}
