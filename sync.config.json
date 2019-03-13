@@ -1,17 +1,9 @@
 {
   "dirs": {
-    "tdComponents": {
-      "src": "./test1",
+    "va-firebase-sync": {
+      "src": "../va-firebase-sync",
       "dest": [
-        "./foo",
-        "./bar"
-      ]
-    },
-    "tdTests": {
-      "src": "./test2",
-      "dest": [
-        "./duper/foo",
-        "./duper/baz"
+        "../va-platform-backend/node_modules/va-firebase-sync"
       ]
     }
   },
