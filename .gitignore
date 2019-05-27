@@ -3,6 +3,7 @@ logs
 *.log
 client_bundle.html
 server_bundle.html
+*.bk.*
 
 .next
 packages/builder/public

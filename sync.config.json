@@ -1,10 +1,8 @@
 {
   "dirs": {
-    "va-firebase-sync": {
-      "src": "../va-firebase-sync",
-      "dest": [
-        "../va-platform-backend/node_modules/va-firebase-sync"
-      ]
+    "default": {
+      "src": "",
+      "dest": []
     }
   },
   "watch": true,

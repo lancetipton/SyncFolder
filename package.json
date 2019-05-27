@@ -1,12 +1,18 @@
 {
-  "name": "td_dir_sync",
+  "name": "syncfolder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Multi-directional folder syncing!",
+  "repository": "https://github.com/lancetipton/SyncFolder.git",
+  "homepage": "https://github.com/lancetipton/SyncFolder.git#readme",
+  "bugs": {
+    "url": "https://github.com/lancetipton/SyncFolder/issues"
+  },
   "main": "index.js",
   "scripts": {
+    "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "lancetipton <lancetipton04@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "chokidar": "^2.0.4",
